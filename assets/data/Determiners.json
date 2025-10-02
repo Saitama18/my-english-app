@@ -1,0 +1,26 @@
+[
+    
+    {
+        "useWith": "Plural Noun",
+        "determiner":[
+            {"word": "all"},
+            {"word": "both"},
+            {"word": "most"}
+        ]    
+    },
+    {
+        "useWith": "Singular Noun, Plural Noun or Uncountable noun",
+        "determiner": [
+            {"word": "any"},
+            {"word": "no"}
+        ]
+    },
+    {
+        "useWith": "Plural Noun or Uncountable noun",
+        "determiner": [
+            {"word": "all"},
+            {"word": "certain"},
+            {"word": "some"}
+        ]
+    }
+]

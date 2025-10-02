@@ -1,0 +1,56 @@
+[
+    {
+        "quantifyer": "Large",
+        "pluralCount": [
+            {"phrase": "a number of"},
+            {"phrase": "a huge number of"}
+        ],
+        "nonCount": [
+            {"phrase": "a large amount of"},
+            {"phrase": "a huge amount of"}
+        ],
+        "BothLargeCount": [
+            {"phrase": "some*"},
+            {"phrase": "a lot of / lots of"},
+            {"phrase": "loads of *less formal"},
+            {"phrase": "plenty of"}
+        ]
+    },
+    {
+        "quantifyer": "Small",
+        "pluralCount": [
+            {"phrase": "(not) many"},
+            {"phrase": "(a) few"},
+            {"phrase": "a small number of"},
+            {"phrase": "several"}
+        ],
+        "nonCount": [
+            {"phrase": "(not) much"},
+            {"phrase": "(a) little (of)"},
+            {"phrase": "a small amount of"}
+        ],
+        "BothSmallCount": [
+            {"phrase": "some*"},
+            {"phrase": "a lack of"},
+            {"phrase": "(almost) no"},
+            {"phrase": "(hardly/not) any"}
+        ]
+    },
+    {
+        "useWith": "Singular Noun",
+        "determiner": [
+            {"word": "each"},
+            {"word": "every"},
+            {"word": "the whole"},
+            {"word": "either"},
+            {"word": "neither"}
+        ] 
+    },
+    {
+        "notes": [
+            "'little' is use to express something bad / 'a little' is use to express something good",
+            "'few' is use to to express something bad / 'a few' is use to express something good",
+            "'much' is always to express something negative"
+        ]
+    }
+]

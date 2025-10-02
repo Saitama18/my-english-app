@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Simple Present",
+        "structure": "Subject + base verb",
+        "description":"Describes habitual actions, general truths, or facts ",
+        "examples": [
+            "I walk to school every day.",
+            "She studies English on weekends."
+        ]
+    },
+    {
+        "name": "Present Continuous",
+        "structure": "Subject + am/is/are + verb-ing",
+        "description":"Describes actions happening now or around now",
+        "examples": [
+            "I am walking to school now.",
+            "They are watching a movie."
+        ]
+    },
+    {
+        "name": "Present Perfect",
+        "structure": "Subject + have/has + past participle",
+        "description":"Describes actions that started in the past and continue to the present, or have recently finished",
+        "examples": [
+            "I have finished my homework.",
+            "She has visited London twice."
+        ]
+    },
+    {
+        "name": "Present Perfect Continuous",
+        "structure": "Subject + have/has been + verb-ing",
+        "description":"Describes actions that started in the past, are still ongoing, and have a connection to the present",
+        "examples": [
+            "I have been studying for three hours.",
+            "He has been working here since 2010."
+        ]
+    },
+    {
+        "name": "Simple Past",
+        "structure": "Subject + past verb",
+        "description":"Describes completed actions in the past",
+        "examples": [
+            "I walked to the store yesterday.",
+            "They watched a movie last night."
+        ]
+    },
+    {
+        "name": "Past Continuous",
+        "structure": "Subject + was/were + verb-ing",
+        "description":"Describes actions in progress at a specific time in the past",
+        "examples": [
+            "I was reading a book when you called.",
+            "They were playing football at 5 PM."
+        ]
+    },
+    {
+        "name": "Past Perfect",
+        "structure": "Subject + had + past participle",
+        "description":"Describes an action completed before another action in the past",
+        "examples": [
+            "I had finished my meal before he arrived.",
+            "She had left when I called her."
+        ]
+    },
+    {
+        "name": "Past Perfect Continuous",
+        "structure": "Subject + had been + verb-ing",
+        "description":"Describes actions that were ongoing before another past action",
+        "examples": [
+            "I had been working all day before I took a break.",
+            "They had been studying for hours before the test."
+        ]
+    },
+    {
+        "name": "Simple Future",
+        "structure": "Subject + will + base verb",
+        "description":"Describes actions that will happen in the future",
+        "examples": [
+            "I will go to the gym tomorrow.",
+            "She will call you later."
+        ]
+    },
+    {
+        "name": "Future Continuous",
+        "structure": "Subject + will be + verb-ing",
+        "description":"Describes actions that will be in progress at a specific time in the future",
+        "examples": [
+            "I will be working at 8 PM.",
+            "They will be traveling next week."
+        ]
+    },
+    {
+        "name": "Future Perfect",
+        "structure": "Subject + will have + past participle",
+        "description":"Describes actions that will be completed before a specific time in the future",
+        "examples": [
+            "I will have finished the project by Friday.",
+            "She will have left by the time you arrive."
+        ]
+    },
+    {
+        "name": "Future Perfect Continuous",
+        "structure": "Subject + will have been + verb-ing",
+        "description":"Describes actions that will be ongoing up to a specific time in the future",
+        "examples": [
+            "I will have been working here for five years next month.",
+            "They will have been studying for three hours by noon."
+        ]
+    }
+]

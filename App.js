@@ -1,12 +1,19 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import { useFonts } from 'expo-font';
+import {Main} from './components/Main'
 
 export default function App() {
+  const [fontsLoaded] = useFonts({
+    'ComicNeueBold': require('./assets/fonts/ComicNeue-Bold.ttf'),
+    'ComicNeueBoldItalic': require('./assets/fonts/ComicNeue-BoldItalic.ttf'),
+  });
+
+  if (!fontsLoaded) return null;
+
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <Main/>
   );
 }
 
@@ -17,4 +24,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  text: {
+    fontFamily: 'ComicNeueBold',
+    fontSize: 20,
+    color: "#47e9a3"
+  }
 });

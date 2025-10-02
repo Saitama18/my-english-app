@@ -1,0 +1,201 @@
+[
+  {
+    "type": "Descriptive",
+    "description": "Describe the quality or state of a noun.",
+    "adjectives": [
+      { "word": "intelligent"},
+      { "word": "friendly"},
+      { "word": "brave"},
+      { "word": "lazy"},
+      { "word": "beautiful"},
+      { "word": "happy"},
+      { "word": "sad"},
+      { "word": "angry"},
+      { "word": "bright"},
+      { "word": "dark"},
+      { "word": "soft"},
+      { "word": "hard"},
+      { "word": "warm"},
+      { "word": "cold"},
+      { "word": "noisy"},
+      { "word": "quiet"},
+      { "word": "clean"},
+      { "word": "dirty"},
+      { "word": "tall"},
+      { "word": "short"},
+      { "word": "fat"},
+      { "word": "thin"},
+      { "word": "strong"},
+      { "word": "weak"},
+      { "word": "fast"},
+      { "word": "slow"},
+      { "word": "smart"},
+      { "word": "dumb"},
+      { "word": "funny"},
+      { "word": "serious"},
+      { "word": "kind"},
+      { "word": "rude"},
+      { "word": "young"},
+      { "word": "old"}
+    ]
+  },
+  {
+    "type": "Demonstrative",
+    "description": "Point out specific things.",
+    "adjectives": [
+      {
+        "word": "this"
+      },
+      {
+        "word": "that"
+      },
+      {
+        "word": "these"
+      },
+      {
+        "word": "those"
+      },
+      {
+        "word": "such"
+      },
+      {
+        "word": "same"
+      },
+      {
+        "word": "former"
+      },
+      {
+        "word": "latter"
+      },
+      {
+        "word": "each"
+      },
+      {
+        "word": "another"
+       }
+    ]
+  },
+  {
+    "type": "Possessive",
+    "description": "Show ownership or relation.",
+    "adjectives": [
+      {
+        "word": "my"
+      },
+      {
+        "word": "your"
+      },
+      {
+        "word": "his"
+      },
+      {
+        "word": "her"
+      },
+      {
+        "word": "its"
+      },
+      {
+        "word": "our"
+      },
+      {
+        "word": "their"
+      },
+      {
+        "word": "whose"
+      },
+      {
+        "word": "one’s"
+      },
+      {
+        "word": "mine"
+      }
+    ]
+  },
+  {
+    "type": "Numeral",
+    "description": "Indicate numbers or order.",
+    "adjectives": [
+      {
+        "word": "one"
+      },
+      {
+        "word": "two"
+      },
+      {
+        "word": "three"
+      },
+      {
+        "word": "first"
+      },
+      {
+        "word": "second"
+      },
+      {
+        "word": "third"
+      },
+      {
+        "word": "ten"
+      },
+      {
+        "word": "hundred"
+      },
+      {
+        "word": "last"
+      },
+      {
+        "word": "next"
+      }
+    ]
+  },
+  {
+    "type": "Indefinite",
+    "description": "Describe non-specific quantities or things.",
+    "adjectives": [
+      {
+        "word": "some"
+      },
+      {
+        "word": "any"
+      },
+      {
+        "word": "many"
+      },
+      {
+        "word": "few"
+      },
+      {
+        "word": "several"
+      },
+      {
+        "word": "all"
+      },
+      {
+        "word": "most"
+      },
+      {
+        "word": "no"
+      },
+      {
+        "word": "each"
+      },
+      {
+        "word": "other"
+      },
+      {
+        "word": "much"
+      },
+      {
+        "word": "either"
+      },
+      {
+        "word": "neither"
+      },
+      {
+        "word": "every"
+      },
+      {
+        "word": "none"
+      }
+    ]
+  }
+]

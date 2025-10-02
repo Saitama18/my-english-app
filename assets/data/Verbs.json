@@ -1,0 +1,3625 @@
+[
+  {
+    "type": "Regular",
+    "base": "Accept",
+    "past": "accepted",
+    "participle": "accepted",
+    "continous": "accepting",
+    "present": {
+      "I/you/we/they": "accept",
+      "he/she/it": "accepts"
+    },
+    "examples": [
+      "They accept all major credit cards.",
+      "She accepted the invitation with a smile.",
+      "He has accepted the job offer."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Achieve",
+    "past": "achieved",
+    "participle": "achieved",
+    "continous": "achieving",
+    "present": {
+      "I/you/we/they": "achieve",
+      "he/she/it": "achieves"
+    },
+    "examples": [
+      "You can achieve anything with hard work.",
+      "He achieved his goal last year.",
+      "They have achieved great success together."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Add",
+    "past": "added",
+    "participle": "added",
+    "continous": "adding",
+    "present": {
+      "I/you/we/they": "add",
+      "he/she/it": "adds"
+    },
+    "examples": [
+      "Add some sugar to the tea.",
+      "She added more details to her report.",
+      "We have added new features to the app."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Admire",
+    "past": "admired",
+    "participle": "admired",
+    "continous": "admiring",
+    "present": {
+      "I/you/we/they": "admire",
+      "he/she/it": "admires"
+    },
+    "examples": [
+      "I admire her honesty.",
+      "They admired the beautiful sunset.",
+      "He has always admired his father."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Admit",
+    "past": "admitted",
+    "participle": "admitted",
+    "continous": "admitting",
+    "present": {
+      "I/you/we/they": "admit",
+      "he/she/it": "admits"
+    },
+    "examples": [
+      "I admit my mistake.",
+      "She admitted that she was wrong.",
+      "He has admitted his guilt."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Adopt",
+    "past": "adopted",
+    "participle": "adopted",
+    "continous": "adopting",
+    "present": {
+      "I/you/we/they": "adopt",
+      "he/she/it": "adopts"
+    },
+    "examples": [
+      "They plan to adopt a child.",
+      "She adopted a new strategy.",
+      "We have adopted new safety measures."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Advise",
+    "past": "advised",
+    "participle": "advised",
+    "continous": "advising",
+    "present": {
+      "I/you/we/they": "advise",
+      "he/she/it": "advises"
+    },
+    "examples": [
+      "I advise you to rest.",
+      "He advised her to be patient.",
+      "They have advised against traveling."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Agree",
+    "past": "agreed",
+    "participle": "agreed",
+    "continous": "agreeing",
+    "present": {
+      "I/you/we/they": "agree",
+      "he/she/it": "agrees"
+    },
+    "examples": [
+      "I agree with your opinion.",
+      "She agreed to join the project.",
+      "We have agreed on the final plan."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Allow",
+    "past": "allowed",
+    "participle": "allowed",
+    "continous": "allowing",
+    "present": {
+      "I/you/we/they": "allow",
+      "he/she/it": "allows"
+    },
+    "examples": [
+      "They allow pets in this hotel.",
+      "He allowed me to enter the room.",
+      "We have allowed extra time for the test."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Appreciate",
+    "past": "appreciated",
+    "participle": "appreciated",
+    "continous": "appreciating",
+    "present": {
+      "I/you/we/they": "appreciate",
+      "he/she/it": "appreciates"
+    },
+    "examples": [
+      "I appreciate your help.",
+      "She appreciated the kind gesture.",
+      "They have appreciated all the support."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Approve",
+    "past": "approved",
+    "participle": "approved",
+    "continous": "approving",
+    "present": {
+      "I/you/we/they": "approve",
+      "he/she/it": "approves"
+    },
+    "examples": [
+      "They approve new policies every year.",
+      "The manager approved my vacation request.",
+      "He has approved the final version of the report."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Arrive",
+    "past": "arrived",
+    "participle": "arrived",
+    "continous": "arriving",
+    "present": {
+      "I/you/we/they": "arrive",
+      "he/she/it": "arrives"
+    },
+    "examples": [
+      "We usually arrive early to meetings.",
+      "She arrived late due to traffic.",
+      "They have already arrived at the airport."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Ask",
+    "past": "asked",
+    "participle": "asked",
+    "continous": "asking",
+    "present": {
+      "I/you/we/they": "ask",
+      "he/she/it": "asks"
+    },
+    "examples": [
+      "I always ask questions when I don't understand.",
+      "He asked for help yesterday.",
+      "They have asked the same thing three times."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Assist",
+    "past": "assisted",
+    "participle": "assisted",
+    "continous": "assisting",
+    "present": {
+      "I/you/we/they": "assist",
+      "he/she/it": "assists"
+    },
+    "examples": [
+      "I assist my coworkers when they need support.",
+      "She assisted the elderly man with his bags.",
+      "We have assisted many customers today."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Attack",
+    "past": "attacked",
+    "participle": "attacked",
+    "continous": "attacking",
+    "present": {
+      "I/you/we/they": "attack",
+      "he/she/it": "attacks"
+    },
+    "examples": [
+      "The dog attacks strangers.",
+      "They attacked the fortress at dawn.",
+      "The virus has attacked several systems."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Bake",
+    "past": "baked",
+    "participle": "baked",
+    "continous": "baking",
+    "present": {
+      "I/you/we/they": "bake",
+      "he/she/it": "bakes"
+    },
+    "examples": [
+      "I bake cookies every Sunday.",
+      "She baked a chocolate cake yesterday.",
+      "They have baked fresh bread for breakfast."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Be",
+    "past": "was/were",
+    "participle": "been",
+    "continous": "-",
+    "present": {
+      "I": "am",
+      "you": "are",
+      "he/she/it": "is",
+      "we": "are",
+      "they": "are"
+    },
+    "pastSimple": {
+      "I/he/she/it": "was",
+      "you/we/they": "were"
+    },
+    "examples": [
+      "I am happy.",
+      "He was tired yesterday.",
+      "They have been to London."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Beat",
+    "past": "beat",
+    "participle": "beaten",
+    "continous": "beating",
+    "present":{
+      "I/you/we/they": "beat",
+      "he/she/it": "beats"
+    },
+    "examples":[
+      "Our team beat the Lions 3 to 0.",
+      "He beat the door with his fists.",
+      "My heart beats fast when I'm nervous."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Become",
+    "past": "became",
+    "participle": "become",
+    "continous": "becoming",
+    "present":{
+      "I/you/we/they": "become",
+      "he/she/it": "becomes"
+    },
+    "examples":[
+      "She becomes very happy when she sees her family.",
+      "He became a doctor after years of studying.",
+      "They have become close friends over the years."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Beg",
+    "past": "begged",
+    "participle": "begged",
+    "continous": "begging",
+    "present": {
+      "I/you/we/they": "beg",
+      "he/she/it": "begs"
+    },
+    "examples": [
+      "They beg for food on the street.",
+      "He begged for another chance.",
+      "She has begged them to stay."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Begin",
+    "past": "began",
+    "participle": "begun",
+    "continous": "begining",
+    "present":{
+      "I/you/we/they": "begin",
+      "he/she/it": "begins"
+    },
+    "examples":[
+      "I begin my day with a cup of coffee.",
+      "The concert began late last night.",
+      "The meeting has begun."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Behave",
+    "past": "behaved",
+    "participle": "behaved",
+    "continous": "behaving",
+    "present": {
+      "I/you/we/they": "behave",
+      "he/she/it": "behaves"
+    },
+    "examples": [
+      "Please behave during the ceremony.",
+      "The child behaved well at school.",
+      "They have behaved strangely lately."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Bend",
+    "past": "bent",
+    "participle": "bent",
+    "continous": "bending",
+    "present":{
+      "I/you/we/they": "bend",
+      "he/she/it": "bends"
+    },
+    "examples":[
+      "The metal can be bent easily.",
+      "She bent down to pick up the coin.",
+      "He couldn't bend his arm after the accident."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Bet",
+    "past": "bet",
+    "participle": "bet",
+    "continous": "betting",
+    "present":{
+      "I/you/we/they": "bet",
+      "he/she/it": "bets"
+    },
+    "examples":[
+      "I bet $10 on the game.",
+      "She bet her life savings on the new business.",
+      "He bets on the favorite every time."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Bite",
+    "past": "bit",
+    "participle": "bitten",
+    "continous": "bitting",
+    "present":{
+      "I/you/we/they": "bite",
+      "he/she/it": "bites"
+    },
+    "examples":[
+      "I bite my nails when I'm nervous.",
+      "I bit my tongue.",
+      "The dog has bitten the mailman."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Blow",
+    "past": "blew",
+    "participle": "blown",
+    "continous": "blowing",
+    "present":{
+      "I/you/we/they": "blow",
+      "he/she/it": "blows"
+    },
+    "examples":[
+      "The wind blows leaves off the trees.",
+      "The wind blew strongly last night.",
+      "The candles had been blown out."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Borrow",
+    "past": "borrowed",
+    "participle": "borrowed",
+    "continous": "borrowing",
+    "present": {
+      "I/you/we/they": "borrow",
+      "he/she/it": "borrows"
+    },
+    "examples": [
+      "Can I borrow your pen?",
+      "She borrowed my book yesterday.",
+      "We have borrowed some money from the bank."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Break",
+    "past": "broke",
+    "participle": "broken",
+    "continous": "breaking",
+    "present":{
+      "I/you/we/they": "break",
+      "he/she/it": "breaks"
+    },
+    "examples":[
+      "I break the rules everyday.",
+      "She broke the vase while cleaning.",
+      "The vase has already been broken."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Bring",
+    "past": "brought",
+    "participle": "brought",
+    "continous": "bringing",
+    "present":{
+      "I/you/we/they": "bring",
+      "he/she/it": "brings"
+    },
+    "examples":[
+      "She brings a new perspective to the team.",
+      "We brought our passports and tickets to the airport.",
+      "I have brought my lunch to work every day this week."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Broadcast",
+    "past": "broadcast",
+    "participle": "broadcast",
+    "continous": "broadcasting",
+    "present":{
+      "I/you/we/they": "broadcast",
+      "he/she/it": "broadcasts"
+    },
+    "examples":[
+      "The news station broadcasts the weather report every hour.",
+      "Last night, they broadcast the concert live.",
+      "The speech was broadcast to a global audience."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Build",
+    "past": "built",
+    "participle": "built",
+    "continous": "building",
+    "present":{
+      "I/you/we/they": "build",
+      "he/she/it": "builds"
+    },
+    "examples":[
+      "I build houses.",
+      "They built a new bridge.",
+      "The company has built several new factories."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Burst",
+    "past": "burst",
+    "participle": "burst",
+    "continous": "bursting",
+    "present":{
+      "I/you/we/they": "burst",
+      "he/she/it": "bursts"
+    },
+    "examples":[
+      "The dam bursts if the water level gets too high.",
+      "The balloon burst when the child squeezed it too hard.",
+      "The dam would have burst if they hadn't reinforced it."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Bury",
+    "past": "buried",
+    "participle": "buried",
+    "continous": "burying",
+    "present": {
+      "I/you/we/they": "bury",
+      "he/she/it": "buries"
+    },
+    "examples": [
+      "They bury their secrets deep.",
+      "He buried the treasure under the tree.",
+      "She has buried the past and moved on."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Buy",
+    "past": "bought",
+    "participle": "bought",
+    "continous": "buying",
+    "present":{
+      "I/you/we/they": "buy",
+      "he/she/it": "buys"
+    },
+    "examples":[
+      "I buy groceries every week.",
+      "She bought a new car last month.",
+      "They have bought all the tickets for the concert."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Call",
+    "past": "called",
+    "participle": "called",
+    "continous": "calling",
+    "present": {
+      "I/you/we/they": "call",
+      "he/she/it": "calls"
+    },
+    "examples": [
+      "I call my parents every day.",
+      "She called me last night.",
+      "They have called three times already."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Catch",
+    "past": "caught",
+    "participle": "caught",
+    "continous": "catching",
+    "present":{
+      "I/you/we/they": "catch",
+      "he/she/it": "catches"
+    },
+    "examples":[
+      "He catches the train every morning.",
+      "She caught the bouquet at the wedding.",
+      "The fire was caught on camera."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Challenge",
+    "past": "challenged",
+    "participle": "challenged",
+    "continous": "challenging",
+    "present": {
+      "I/you/we/they": "challenge",
+      "he/she/it": "challenges"
+    },
+    "examples": [
+      "I challenge you to a game of chess.",
+      "He challenged the final decision.",
+      "They have challenged the new law in court."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Change",
+    "past": "changed",
+    "participle": "changed",
+    "continous": "changing",
+    "present": {
+      "I/you/we/they": "change",
+      "he/she/it": "changes"
+    },
+    "examples": [
+      "People change over time.",
+      "She changed her hairstyle.",
+      "We have changed the schedule."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Chase",
+    "past": "chased",
+    "participle": "chased",
+    "continous": "chasing",
+    "present": {
+      "I/you/we/they": "chase",
+      "he/she/it": "chases"
+    },
+    "examples": [
+      "Dogs love to chase balls.",
+      "He chased the thief down the street.",
+      "They have chased the dream for years."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Cheat",
+    "past": "cheated",
+    "participle": "cheated",
+    "continous": "cheating",
+    "present": {
+      "I/you/we/they": "cheat",
+      "he/she/it": "cheats"
+    },
+    "examples": [
+      "Some students cheat during exams.",
+      "She cheated on the test.",
+      "He has cheated in every game."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Cheer",
+    "past": "cheered",
+    "participle": "cheered",
+    "continous": "cheering",
+    "present": {
+      "I/you/we/they": "cheer",
+      "he/she/it": "cheers"
+    },
+    "examples": [
+      "They cheer for their favorite team.",
+      "The crowd cheered loudly.",
+      "She has cheered me up many times."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Choose",
+    "past": "chose",
+    "participle": "chosen",
+    "continous": "choosing",
+    "present":{
+      "I/you/we/they": "choose",
+      "he/she/it": "chooses"
+    },
+    "examples":[
+      "I choose the blue shirt.",
+      "They chose the movie over the concert.",
+      "The winner was chosen by the judges."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Clap",
+    "past": "clapped",
+    "participle": "clapped",
+    "continous": "clapping",
+    "present": {
+      "I/you/we/they": "clap",
+      "he/she/it": "claps"
+    },
+    "examples": [
+      "They clap at the end of every performance.",
+      "The audience clapped for several minutes.",
+      "She has clapped along to the music."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Clean",
+    "past": "cleaned",
+    "participle": "cleaned",
+    "continous": "cleaning",
+    "present": {
+      "I/you/we/they": "clean",
+      "he/she/it": "cleans"
+    },
+    "examples": [
+      "I clean my room every weekend.",
+      "She cleaned the kitchen this morning.",
+      "They have cleaned the entire house."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Collect",
+    "past": "collected",
+    "participle": "collected",
+    "continous": "collecting",
+    "present": {
+      "I/you/we/they": "collect",
+      "he/she/it": "collects"
+    },
+    "examples": [
+      "He collects old coins.",
+      "They collected data from the survey.",
+      "She has collected all the necessary documents."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Come",
+    "past": "came",
+    "participle": "come",
+    "continous": "comming",
+    "present":{
+      "I/you/we/they": "come",
+      "he/she/it": "comes"
+    },
+    "examples":[
+      "I come closer to hear the class",
+      "They came from Japan in 1999",
+      "I have come to tell you happy thursday "
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Compare",
+    "past": "compared",
+    "participle": "compared",
+    "continous": "comparing",
+    "present": {
+      "I/you/we/they": "compare",
+      "he/she/it": "compares"
+    },
+    "examples": [
+      "We compare prices before buying anything.",
+      "She compared the two products carefully.",
+      "They have compared several options already."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Complain",
+    "past": "complained",
+    "participle": "complained",
+    "continous": "complaining",
+    "present": {
+      "I/you/we/they": "complain",
+      "he/she/it": "complains"
+    },
+    "examples": [
+      "Customers often complain about delays.",
+      "He complained to the manager.",
+      "They have complained multiple times."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Construct",
+    "past": "constructed",
+    "participle": "constructed",
+    "continous": "constructing",
+    "present": {
+      "I/you/we/they": "construct",
+      "he/she/it": "constructs"
+    },
+    "examples": [
+      "Engineers construct new buildings every year.",
+      "They constructed a bridge over the river.",
+      "The team has constructed the foundation."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Copy",
+    "past": "copied",
+    "participle": "copied",
+    "continous": "copying",
+    "present": {
+      "I/you/we/they": "copy",
+      "he/she/it": "copies"
+    },
+    "examples": [
+      "Students often copy notes in class.",
+      "He copied the file to another folder.",
+      "She has copied the whole document."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Cost",
+    "past": "cost",
+    "participle": "cost",
+    "continous": "costing",
+    "present":{
+      "I/you/we/they": "cost",
+      "he/she/it": "costs"
+    },
+    "examples":[
+      "How much does this book cost?",
+      "The concert cost a lot of money.",
+      "This mistake has cost him his job."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Count",
+    "past": "counted",
+    "participle": "counted",
+    "continous": "counting",
+    "present": {
+      "I/you/we/they": "count",
+      "he/she/it": "counts"
+    },
+    "examples": [
+      "Children learn to count early.",
+      "She counted the number of guests.",
+      "They have counted all the ballots."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Create",
+    "past": "created",
+    "participle": "created",
+    "continous": "creating",
+    "present": {
+      "I/you/we/they": "create",
+      "he/she/it": "creates"
+    },
+    "examples": [
+      "Artists create beautiful things.",
+      "He created a new website.",
+      "They have created a new logo for the company."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Creep",
+    "past": "crept / creeped",
+    "participle": "crept / creeped",
+    "continous": "creeping",
+    "present":{
+      "I/you/we/they": "creep",
+      "he/she/it": "creeps"
+    },
+    "examples":[
+      "I creep into the room",
+      "I crept through the garden",
+      "The cat had crept silently into the room"
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Cry",
+    "past": "cried",
+    "participle": "cried",
+    "continous": "crying",
+    "present": {
+      "I/you/we/they": "cry",
+      "he/she/it": "cries"
+    },
+    "examples": [
+      "Babies cry when they're hungry.",
+      "She cried after watching the movie.",
+      "He has cried every night this week."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Cut",
+    "past": "cut",
+    "participle": "cut",
+    "continous": "cutting",
+    "present":{
+      "I/you/we/they": "cut",
+      "he/she/it": "cuts"
+    },
+    "examples":[
+      "I cut the grass every week.",
+      "I cut the vegetables for my dinner yesterday",
+      "He has cut his hand."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Dance",
+    "past": "danced",
+    "participle": "danced",
+    "continous": "dancing",
+    "present": {
+      "I/you/we/they": "dance",
+      "he/she/it": "dances"
+    },
+    "examples": [
+      "They dance every Friday night.",
+      "She danced beautifully at the party.",
+      "He has danced since he was a child."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Deal",
+    "past": "dealt",
+    "participle": "dealt",
+    "continous": "dealing",
+    "present":{
+      "I/you/we/they": "deal",
+      "he/she/it": "deals"
+    },
+    "examples":[
+      "She deals with difficult situations calmly.",
+      "He dealt the cards quickly and efficiently.",
+      "The situation has been dealt with."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Deliver",
+    "past": "delivered",
+    "participle": "delivered",
+    "continous": "delivering",
+    "present": {
+      "I/you/we/they": "deliver",
+      "he/she/it": "delivers"
+    },
+    "examples": [
+      "They deliver packages every day.",
+      "He delivered a great speech.",
+      "The courier has delivered the documents."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Destroy",
+    "past": "destroyed",
+    "participle": "destroyed",
+    "continous": "destroying",
+    "present": {
+      "I/you/we/they": "destroy",
+      "he/she/it": "destroys"
+    },
+    "examples": [
+      "War destroys everything.",
+      "The storm destroyed the house.",
+      "They have destroyed the old building."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Dig",
+    "past": "dug",
+    "participle": "dug",
+    "continous": "digging",
+    "present":{
+      "I/you/we/they": "dig",
+      "he/she/it": "digs"
+    },
+    "examples":[
+      "She digs a hole for the plant.",
+      "They dug for treasure.",
+      "I have dug many holes in my time."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Divide",
+    "past": "divided",
+    "participle": "divided",
+    "continous": "dividing",
+    "present": {
+      "I/you/we/they": "divide",
+      "he/she/it": "divides"
+    },
+    "examples": [
+      "They divide the work equally.",
+      "She divided the pizza among the kids.",
+      "We have divided the project into phases."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Do",
+    "past": "did",
+    "participle": "done",
+    "continous": "doing",
+    "present": {
+      "I/you/we/they": "do",
+      "he/she/it": "does"
+    },
+    "examples": [
+      "They do their homework every day.",
+      "He did his best.",
+      "You have done well."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Draw",
+    "past": "drew",
+    "participle": "drawn",
+    "continous": "drawing",
+    "present": {
+      "I/you/we/they": "draw",
+      "he/she/it": "draws"
+    },
+    "examples": [
+      "She draws beautiful landscapes.",
+      "He drew a detailed map of the area.",
+      "He had drawn a detailed plan before starting."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Drink",
+    "past": "drank",
+    "participle": "drunk",
+    "continous": "drinking",
+    "present": {
+      "I/you/we/they": "drink",
+      "he/she/it": "drinks"
+    },
+    "examples": [
+      "I drink coffee every morning.",
+      "He drank a glass of water.",
+      "I have drunk all the juice."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Drive",
+    "past": "drove",
+    "participle": "driven",
+    "continous": "driving",
+    "present": {
+      "I/you/we/they": "drive",
+      "he/she/it": "drives"
+    },
+    "examples": [
+      "I drive to work every day.",
+      "He drove his motorcycle too fast.",
+      "I have driven this car for years."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Eat",
+    "past": "ate",
+    "participle": "eaten",
+    "continous": "eating",
+    "present": {
+      "I/you/we/they": "eat",
+      "he/she/it": "eats"
+    },
+    "examples": [
+      "We eat dinner together as a family.",
+      "He ate too much at the buffet.",
+      "She has eaten at that restaurant several times."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Earn",
+    "past": "earned",
+    "participle": "earned",
+    "continous": "earning",
+    "present": {
+      "I/you/we/they": "earn",
+      "he/she/it": "earns"
+    },
+    "examples": [
+      "I earn enough to pay my bills.",
+      "He earned a promotion last year.",
+      "They have earned a lot of respect."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Employ",
+    "past": "employed",
+    "participle": "employed",
+    "continous": "employing",
+    "present": {
+      "I/you/we/they": "employ",
+      "he/she/it": "employs"
+    },
+    "examples": [
+      "They employ over 100 people.",
+      "The company employed new staff last month.",
+      "She has employed several assistants."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Encourage",
+    "past": "encouraged",
+    "participle": "encouraged",
+    "continous": "encouraging",
+    "present": {
+      "I/you/we/they": "encourage",
+      "he/she/it": "encourages"
+    },
+    "examples": [
+      "Teachers encourage students to ask questions.",
+      "He encouraged me to try again.",
+      "They have encouraged teamwork in the office."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Enjoy",
+    "past": "enjoyed",
+    "participle": "enjoyed",
+    "continous": "enjoying",
+    "present": {
+      "I/you/we/they": "enjoy",
+      "he/she/it": "enjoys"
+    },
+    "examples": [
+      "I enjoy listening to music.",
+      "She enjoyed the movie a lot.",
+      "We have enjoyed our vacation so far."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Establish",
+    "past": "established",
+    "participle": "established",
+    "continous": "establishing",
+    "present": {
+      "I/you/we/they": "establish",
+      "he/she/it": "establishes"
+    },
+    "examples": [
+      "They establish new rules each semester.",
+      "He established his own company.",
+      "The foundation has established a new program."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Exercise",
+    "past": "exercised",
+    "participle": "exercised",
+    "continous": "exercising",
+    "present": {
+      "I/you/we/they": "exercise",
+      "he/she/it": "exercises"
+    },
+    "examples": [
+      "I exercise every morning.",
+      "She exercised for an hour yesterday.",
+      "They have exercised regularly this month."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Explain",
+    "past": "explained",
+    "participle": "explained",
+    "continous": "explaining",
+    "present": {
+      "I/you/we/they": "explain",
+      "he/she/it": "explains"
+    },
+    "examples": [
+      "Teachers explain difficult concepts.",
+      "He explained the problem clearly.",
+      "They have explained the situation multiple times."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Fail",
+    "past": "failed",
+    "participle": "failed",
+    "continous": "failing",
+    "present": {
+      "I/you/we/they": "fail",
+      "he/she/it": "fails"
+    },
+    "examples": [
+      "I fail when I don’t study.",
+      "She failed the driving test.",
+      "They have failed several times before succeeding."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Fall",
+    "past": "fell",
+    "participle": "fallen",
+    "continous": "falling",
+    "present": {
+      "I/you/we/they": "fall",
+      "he/she/it": "falls"
+    },
+    "examples": [
+      "Leaves fall from the trees in autumn.",
+      "The tree fell during the storm.",
+      "The leaves have fallen from the trees."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Feed",
+    "past": "fed",
+    "participle": "fed",
+    "continous": "feeding",
+    "present": {
+      "I/you/we/they": "feed",
+      "he/she/it": "feeds"
+    },
+    "examples": [
+      "She feeds her cat twice a day.",
+      "Yesterday, I fed the chickens.",
+      "The baby has already been fed."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Feel",
+    "past": "felt",
+    "participle": "felt",
+    "continous": "feeling",
+    "present": {
+      "I/you/we/they": "feel",
+      "he/she/it": "feels"
+    },
+    "examples": [
+      "I feel happy today.",
+      "Yesterday, I felt a little sick.",
+      "I have felt this way before."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Fight",
+    "past": "fought",
+    "participle": "fought",
+    "continous": "fighting",
+    "present": {
+      "I/you/we/they": "fight",
+      "he/she/it": "fights"
+    },
+    "examples": [
+      "I often fight my fear of heights.",
+      "The soldiers fought bravely in the battle.",
+      "He had fought in the war but never spoke about it."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Find",
+    "past": "found",
+    "participle": "found",
+    "continous": "finding",
+    "present": {
+      "I/you/we/they": "find",
+      "he/she/it": "finds"
+    },
+    "examples": [
+      "I find my keys in the same place every day.",
+      "She found a new hobby during the pandemic.",
+      "The solution has been found by the team"
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Flee",
+    "past": "fled",
+    "participle": "fled",
+    "continous": "fleeing",
+    "present": {
+      "I/you/we/they": "flee",
+      "he/she/it": "flees"
+    },
+    "examples": [
+      "The deer flee into the forest when they sense danger.",
+      "The protesters fled the scene after the police arrived.",
+      "The refugees had fled their homes to escape the war."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Fly",
+    "past": "flew",
+    "participle": "flown",
+    "continous": "flying",
+    "present": {
+      "I/you/we/they": "fly",
+      "he/she/it": "flies"
+    },
+    "examples": [
+      "She flies her kite on windy days.",
+      "The bird flew away quickly.",
+      "The airplane has flown across the Atlantic many times."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Forbid",
+    "past": "forbade",
+    "participle": "forbidden",
+    "continous": "forbiding",
+    "present": {
+      "I/you/we/they": "forbid",
+      "he/she/it": "forbids"
+    },
+    "examples": [
+      "I forbid you to go.",
+      "They forbade us from entering.",
+      "Smoking is forbidden in this area."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Forfeit",
+    "past": "forfeited",
+    "participle": "forfeited",
+    "continous": "forfeiting",
+    "present": {
+      "I/you/we/they": "forfeit",
+      "he/she/it": "forfeits"
+    },
+    "examples": [
+      "Teams forfeit if they don’t show up.",
+      "He forfeited his right to appeal.",
+      "They have forfeited the match due to a rule violation."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Forget",
+    "past": "forgot",
+    "participle": "forgotten",
+    "continous": "forgetting",
+    "present": {
+      "I/you/we/they": "forget",
+      "he/she/it": "forgets"
+    },
+    "examples": [
+      "Before I forget, bring soda for the party.",
+      "I forgot my wallet.",
+      "I have forgotten her name."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Forgive",
+    "past": "forgave",
+    "participle": "forgiven",
+    "continous": "forgiving",
+    "present": {
+      "I/you/we/they": "forgive",
+      "he/she/it": "forgives"
+    },
+    "examples": [
+      "Do you forgive me?",
+      "She forgave him for lied her.",
+      "I have forgiven worst things."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Frame",
+    "past": "framed",
+    "participle": "framed",
+    "continous": "framing",
+    "present": {
+      "I/you/we/they": "frame",
+      "he/she/it": "frames"
+    },
+    "examples": [
+      "She frames all her paintings.",
+      "They framed the picture yesterday.",
+      "He has framed many documents over the years."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Freeze",
+    "past": "froze",
+    "participle": "frozen",
+    "continous": "freezing",
+    "present": {
+      "I/you/we/they": "freeze",
+      "he/she/it": "freezes"
+    },
+    "examples": [
+      "The water will freeze if the temperature drops below zero.",
+      "The lake froze solid overnight.",
+      "The pipes have frozen due to the cold weather."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Gather",
+    "past": "gathered",
+    "participle": "gathered",
+    "continous": "gathering",
+    "present": {
+      "I/you/we/they": "gather",
+      "he/she/it": "gathers"
+    },
+    "examples": [
+      "They gather around the table every evening.",
+      "She gathered all the papers from the floor.",
+      "We have gathered enough information."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Get",
+    "past": "got",
+    "participle": "gotten",
+    "continous": "getting",
+    "present": {
+      "I/you/we/they": "get",
+      "he/she/it": "gets"
+    },
+    "examples": [
+      "They get good grades.",
+      "She got a new job.",
+      "I have gotten better at English."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Give",
+    "past": "gave",
+    "participle": "given",
+    "continous": "giving",
+    "present": {
+      "I/you/we/they": "give",
+      "he/she/it": "gives"
+    },
+    "examples": [
+      "I give my friend a book.",
+      "He gave me a gift for my birthday.",
+      "I have given you my answer."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Go",
+    "past": "went",
+    "participle": "gone",
+    "continous": "going",
+    "present": {
+      "I/you/we/they": "go",
+      "he/she/it": "goes"
+    },
+    "examples": [
+      "I go to school.",
+      "He went to the store.",
+      "We have gone already."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Greet",
+    "past": "greeted",
+    "participle": "greeted",
+    "continous": "greeting",
+    "present": {
+      "I/you/we/they": "greet",
+      "he/she/it": "greets"
+    },
+    "examples": [
+      "We greet each other with a smile.",
+      "He greeted the guests at the door.",
+      "They have greeted everyone already."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Grow",
+    "past": "grew",
+    "participle": "grown",
+    "continous": "growing",
+    "present": {
+      "I/you/we/they": "grow",
+      "he/she/it": "grows"
+    },
+    "examples": [
+      "She grows flowers in her backyard.",
+      "The tree grew tall over the summer.",
+      "The children have grown so much since I last saw them."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Guess",
+    "past": "guessed",
+    "participle": "guessed",
+    "continous": "guessing",
+    "present": {
+      "I/you/we/they": "guess",
+      "he/she/it": "guesses"
+    },
+    "examples": [
+      "I guess the answer is correct.",
+      "She guessed the number right away.",
+      "They have guessed it before anyone else."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Hang",
+    "past": "hung / hanged",
+    "participle": "hung / hanged",
+    "continous": "hanging",
+    "present": {
+      "I/you/we/they": "hang",
+      "he/she/it": "hangs"
+    },
+    "examples": [
+      "I hang my coat on the hook.",
+      "He hung the picture on the wall yesterday.",
+      "They have hung the laundry to dry."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Have",
+    "past": "had",
+    "participle": "had",
+    "continous": "having",
+    "present": {
+      "I/you/we/they": "have",
+      "he/she/it": "has"
+    },
+    "examples": [
+      "I have a car.",
+      "She had lunch at noon.",
+      "We have had enough."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Hate",
+    "past": "hated",
+    "participle": "hated",
+    "continous": "hating",
+    "present": {
+      "I/you/we/they": "hate",
+      "he/she/it": "hates"
+    },
+    "examples": [
+      "They hate waking up early.",
+      "He hated that movie.",
+      "She has hated broccoli since childhood."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Heal",
+    "past": "healed",
+    "participle": "healed",
+    "continous": "healing",
+    "present": {
+      "I/you/we/they": "heal",
+      "he/she/it": "heals"
+    },
+    "examples": [
+      "Time heals emotional wounds.",
+      "The doctor healed his injury.",
+      "She has healed from the operation."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Hear",
+    "past": "heard",
+    "participle": "heard",
+    "continous": "hearing",
+    "present": {
+      "I/you/we/they": "hear",
+      "he/she/it": "hears"
+    },
+    "examples": [
+      "I hear a sound comming from this way.",
+      "She heard footsteps behind her.",
+      "They have heard the announcement."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Help",
+    "past": "helped",
+    "participle": "helped",
+    "continous": "helping",
+    "present": {
+      "I/you/we/they": "help",
+      "he/she/it": "helps"
+    },
+    "examples": [
+      "We help our neighbors often.",
+      "He helped her carry the bags.",
+      "They have helped many people in need."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Hide",
+    "past": "hid",
+    "participle": "hidden",
+    "continous": "hiding",
+    "present": {
+      "I/you/we/they": "hide",
+      "he/she/it": "hides"
+    },
+    "examples": [
+      "I hide my keys under the doormat.",
+      "He hid the treasure in the backyard.",
+      "The book was hidden under the bed."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Hit",
+    "past": "hit",
+    "participle": "hit",
+    "continous": "hitting",
+    "present": {
+      "I/you/we/they": "hit",
+      "he/she/it": "hits"
+    },
+    "examples": [
+      "Please, hit the lights.",
+      "Mary hit a home run out of the park yesterday.",
+      "She has hit fifteen home runs this season."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Hold",
+    "past": "held",
+    "participle": "held",
+    "continous": "holding",
+    "present": {
+      "I/you/we/they": "hold",
+      "he/she/it": "holds"
+    },
+    "examples": [
+      "She holds the baby carefully.",
+      "He held my hand during the scary movie.",
+      "The document has been held by the committee for review."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Hope",
+    "past": "hoped",
+    "participle": "hoped",
+    "continous": "hoping",
+    "present": {
+      "I/you/we/they": "hope",
+      "he/she/it": "hopes"
+    },
+    "examples": [
+      "I hope everything goes well.",
+      "She hoped to see him again.",
+      "They have hoped for a better future."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Hurt",
+    "past": "hurt",
+    "participle": "hurt",
+    "continous": "hurting",
+    "present": {
+      "I/you/we/they": "hurt",
+      "he/she/it": "hurts"
+    },
+    "examples": [
+      "The cold weather hurts my joints.",
+      "He hurt his ankle playing soccer.",
+      "She was hurt deeply by his words."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Identify",
+    "past": "identified",
+    "participle": "identified",
+    "continous": "identifying",
+    "present": {
+      "I/you/we/they": "identify",
+      "he/she/it": "identifies"
+    },
+    "examples": [
+      "They identify the problem quickly.",
+      "She identified the suspect.",
+      "We have identified all the issues."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Interrupt",
+    "past": "interrupted",
+    "participle": "interrupted",
+    "continous": "interrupting",
+    "present": {
+      "I/you/we/they": "interrupt",
+      "he/she/it": "interrupts"
+    },
+    "examples": [
+      "Please don't interrupt when I’m talking.",
+      "He interrupted the meeting several times.",
+      "They have interrupted the program unexpectedly."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Introduce",
+    "past": "introduced",
+    "participle": "introduced",
+    "continous": "introducing",
+    "present": {
+      "I/you/we/they": "introduce",
+      "he/she/it": "introduces"
+    },
+    "examples": [
+      "Let me introduce you to my friend.",
+      "She introduced the new policy.",
+      "They have introduced many changes this year."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Joke",
+    "past": "joked",
+    "participle": "joked",
+    "continous": "joking",
+    "present": {
+      "I/you/we/they": "joke",
+      "he/she/it": "jokes"
+    },
+    "examples": [
+      "They always joke around in class.",
+      "He joked about the situation.",
+      "She has joked about that before."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Jump",
+    "past": "jumped",
+    "participle": "jumped",
+    "continous": "jumping",
+    "present": {
+      "I/you/we/they": "jump",
+      "he/she/it": "jumps"
+    },
+    "examples": [
+      "Kids jump on the trampoline.",
+      "She jumped over the fence.",
+      "He has jumped from higher places."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Keep",
+    "past": "kept",
+    "participle": "kept",
+    "continous": "keeping",
+    "present": {
+      "I/you/we/they": "keep",
+      "he/she/it": "keeps"
+    },
+    "examples": [
+      "I keep my promises.",
+      "He kept a diary for the trip.",
+      "The boss has kept us wondering about changes for months."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Kick",
+    "past": "kicked",
+    "participle": "kicked",
+    "continous": "kicking",
+    "present": {
+      "I/you/we/they": "kick",
+      "he/she/it": "kicks"
+    },
+    "examples": [
+      "Players kick the ball hard.",
+      "He kicked the door open.",
+      "They have kicked the habit finally."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Kiss",
+    "past": "kissed",
+    "participle": "kissed",
+    "continous": "kissing",
+    "present": {
+      "I/you/we/they": "kiss",
+      "he/she/it": "kisses"
+    },
+    "examples": [
+      "They kiss each other goodbye.",
+      "She kissed the baby on the forehead.",
+      "He has kissed her hand politely."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Kneel",
+    "past": "knelt / kneeled",
+    "participle": "knelt / kneeled",
+    "continous": "kneeling",
+    "present": {
+      "I/you/we/they": "kneel",
+      "he/she/it": "kneels"
+    },
+    "examples": [
+      "He kneels to pray every morning.",
+      "She knelt to tie her shoelaces.",
+      "She had knelt (or kneeled) down to pick up the dropped keys."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Know",
+    "past": "knew",
+    "participle": "known",
+    "continous": "knowing - not use",
+    "present": {
+      "I/you/we/they": "know",
+      "he/she/it": "knows"
+    },
+    "examples": [
+      "You know the answer.",
+      "I knew it!",
+      "She has known him for years."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Laugh",
+    "past": "laughed",
+    "participle": "laughed",
+    "continous": "laughing",
+    "present": {
+      "I/you/we/they": "laugh",
+      "he/she/it": "laughs"
+    },
+    "examples": [
+      "We laugh at funny jokes.",
+      "They laughed so hard they cried.",
+      "She has laughed all evening."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Lay",
+    "past": "laid",
+    "participle": "laid",
+    "continous": "laying",
+    "present": {
+      "I/you/we/they": "lay",
+      "he/she/it": "lays"
+    },
+    "examples": [
+      "I lay the book on the table.",
+      "Yesterday, I laid the blanket on the grass.",
+      "The contractors have laid the foundation for the new building."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Lead",
+    "past": "led",
+    "participle": "led",
+    "continous": "leading",
+    "present": {
+      "I/you/we/they": "lead",
+      "he/she/it": "leads"
+    },
+    "examples": [
+      "He usually leads the team.",
+      "She led the group through the forest.",
+      "He has led the team to victory."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Leave",
+    "past": "left",
+    "participle": "left",
+    "continous": "leaving",
+    "present": {
+      "I/you/we/they": "leave",
+      "he/she/it": "leaves"
+    },
+    "examples": [
+      "I leave for work at 8 AM every day.",
+      "They left the party early.",
+      "She had left before I arrived."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Lend",
+    "past": "lent",
+    "participle": "lent",
+    "continous": "lending",
+    "present": {
+      "I/you/we/they": "lend",
+      "he/she/it": "lends"
+    },
+    "examples": [
+      "I lend my books to friends.",
+      "She lent me her car for the weekend.",
+      "He has lent his support to the project."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Let",
+    "past": "let",
+    "participle": "let",
+    "continous": "letting",
+    "present": {
+      "I/you/we/they": "let",
+      "he/she/it": "lets"
+    },
+    "examples": [
+      "I let my dog play in the park.",
+      "The company let a lot of its employees go.",
+      "He has really let himself go over the years. Now he has to go on a diet."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Lie",
+    "past": "lay",
+    "participle": "lain",
+    "continous": "lying",
+    "present": {
+      "I/you/we/they": "lie",
+      "he/she/it": "lies"
+    },
+    "examples": [
+      "I like to lie on the grass and watch the sky.",
+      "Yesterday, she lay on the sofa all afternoon.",
+      "He has lain in bed all day because he's sick."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Light",
+    "past": "lit",
+    "participle": "lit",
+    "continous": "lighting",
+    "present": {
+      "I/you/we/they": "light",
+      "he/she/it": "lights"
+    },
+    "examples": [
+      "Please light the candles before dinner.",
+      "He lit a fire to warm up the cabin.",
+      "They have lit all the lanterns for the festival."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Like",
+    "past": "liked",
+    "participle": "liked",
+    "continous": "liking",
+    "present": {
+      "I/you/we/they": "like",
+      "he/she/it": "likes"
+    },
+    "examples": [
+      "I like chocolate ice cream.",
+      "She liked the movie a lot.",
+      "They have liked each other for years."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Listen",
+    "past": "listened",
+    "participle": "listened",
+    "continous": "listening",
+    "present": {
+      "I/you/we/they": "listen",
+      "he/she/it": "listens"
+    },
+    "examples": [
+      "I listen to music every day.",
+      "She listened carefully to the instructions.",
+      "They have listened to your concerns."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Lose",
+    "past": "lost",
+    "participle": "lost",
+    "continous": "losing",
+    "present": {
+      "I/you/we/they": "lose",
+      "he/she/it": "loses"
+    },
+    "examples": [
+      "I always lose my keys.",
+      "She lost her phone at the mall.",
+      "They have lost the game again."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Love",
+    "past": "loved",
+    "participle": "loved",
+    "continous": "loving",
+    "present": {
+      "I/you/we/they": "love",
+      "he/she/it": "loves"
+    },
+    "examples": [
+      "We love spending time together.",
+      "He loved the surprise.",
+      "She has loved him since childhood."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Make",
+    "past": "made",
+    "participle": "made",
+    "continous": "making",
+    "present": {
+      "I/you/we/they": "make",
+      "he/she/it": "makes"
+    },
+    "examples": [
+      "I make coffee every morning.",
+      "He made a cake.",
+      "We have made a decision."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Marry",
+    "past": "married",
+    "participle": "married",
+    "continous": "marrying",
+    "present": {
+      "I/you/we/they": "marry",
+      "he/she/it": "marries"
+    },
+    "examples": [
+      "They marry young in that culture.",
+      "She married her best friend.",
+      "He has married twice."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Mean",
+    "past": "meant",
+    "participle": "meant",
+    "continous": "meaning",
+    "present": {
+      "I/you/we/they": "mean",
+      "he/she/it": "means"
+    },
+    "examples": [
+      "What do you mean by that?",
+      "He meant no harm.",
+      "I’ve always meant to call her but forgot."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Measure",
+    "past": "measured",
+    "participle": "measured",
+    "continous": "measuring",
+    "present": {
+      "I/you/we/they": "measure",
+      "he/she/it": "measures"
+    },
+    "examples": [
+      "I measure the ingredients before cooking.",
+      "He measured the table’s length.",
+      "They have measured the results precisely."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Meet",
+    "past": "met",
+    "participle": "met",
+    "continous": "meeting",
+    "present": {
+      "I/you/we/they": "meet",
+      "he/she/it": "meets"
+    },
+    "examples": [
+      "Let’s meet at the café at 5 PM.",
+      "I met her at a concert last year.",
+      "We’ve met several times before."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Move",
+    "past": "moved",
+    "participle": "moved",
+    "continous": "moving",
+    "present": {
+      "I/you/we/they": "move",
+      "he/she/it": "moves"
+    },
+    "examples": [
+      "They move to a new house next week.",
+      "She moved the chair closer.",
+      "We have moved everything already."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Navigate",
+    "past": "navigated",
+    "participle": "navigated",
+    "continous": "navigating",
+    "present": {
+      "I/you/we/they": "navigate",
+      "he/she/it": "navigates"
+    },
+    "examples": [
+      "They navigate through the city using GPS.",
+      "He navigated the boat through the storm.",
+      "She has navigated this area before."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Need",
+    "past": "needed",
+    "participle": "needed",
+    "continous": "needing",
+    "present": {
+      "I/you/we/they": "need",
+      "he/she/it": "needs"
+    },
+    "examples": [
+      "I need some help with this task.",
+      "She needed more time to finish.",
+      "They have needed support for a while."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Offend",
+    "past": "offended",
+    "participle": "offended",
+    "continous": "offending",
+    "present": {
+      "I/you/we/they": "offend",
+      "he/she/it": "offends"
+    },
+    "examples": [
+      "Don’t offend your friends.",
+      "He offended them with his comments.",
+      "She has never offended anyone intentionally."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Offer",
+    "past": "offered",
+    "participle": "offered",
+    "continous": "offering",
+    "present": {
+      "I/you/we/they": "offer",
+      "he/she/it": "offers"
+    },
+    "examples": [
+      "We offer free samples.",
+      "They offered her a new job.",
+      "He has offered his help many times."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Open",
+    "past": "opened",
+    "participle": "opened",
+    "continous": "opening",
+    "present": {
+      "I/you/we/they": "open",
+      "he/she/it": "opens"
+    },
+    "examples": [
+      "I open the windows every morning.",
+      "She opened the door slowly.",
+      "They have opened a new store downtown."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Paint",
+    "past": "painted",
+    "participle": "painted",
+    "continous": "painting",
+    "present": {
+      "I/you/we/they": "paint",
+      "he/she/it": "paints"
+    },
+    "examples": [
+      "They paint beautiful landscapes.",
+      "She painted her room last weekend.",
+      "We have painted this wall before."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Pay",
+    "past": "paid",
+    "participle": "paid",
+    "continous": "paying",
+    "present": {
+      "I/you/we/they": "pay",
+      "he/she/it": "pays"
+    },
+    "examples": [
+      "I usually pay with my credit card.",
+      "He paid for everyone’s dinner last night.",
+      "They have already paid the bill."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Pick",
+    "past": "picked",
+    "participle": "picked",
+    "continous": "picking",
+    "present": {
+      "I/you/we/they": "pick",
+      "he/she/it": "picks"
+    },
+    "examples": [
+      "I pick fresh vegetables every morning.",
+      "She picked the right answer.",
+      "They have picked their teams already."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Play",
+    "past": "played",
+    "participle": "played",
+    "continous": "playing",
+    "present": {
+      "I/you/we/they": "play",
+      "he/she/it": "plays"
+    },
+    "examples": [
+      "We play soccer on weekends.",
+      "He played the piano at the concert.",
+      "They have played this game before."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Pull",
+    "past": "pulled",
+    "participle": "pulled",
+    "continous": "pulling",
+    "present": {
+      "I/you/we/they": "pull",
+      "he/she/it": "pulls"
+    },
+    "examples": [
+      "I pull the door to open it.",
+      "She pulled the rope hard.",
+      "They have pulled it too far."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Purchase",
+    "past": "purchased",
+    "participle": "purchased",
+    "continous": "purchasing",
+    "present": {
+      "I/you/we/they": "purchase",
+      "he/she/it": "purchases"
+    },
+    "examples": [
+      "We purchase groceries online.",
+      "He purchased a new phone yesterday.",
+      "They have purchased several items."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Put",
+    "past": "put",
+    "participle": "put",
+    "continous": "putting",
+    "present": {
+      "I/you/we/they": "put",
+      "he/she/it": "puts"
+    },
+    "examples": [
+      "I always put my phone on silent during meetings.",
+      "She put the book on the shelf.",
+      "They have put a lot of effort into this project."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Quell",
+    "past": "quelled",
+    "participle": "quelled",
+    "continous": "quelling",
+    "present": {
+      "I/you/we/they": "quell",
+      "he/she/it": "quells"
+    },
+    "examples": [
+      "They quell their fears through meditation.",
+      "He quelled the uprising quickly.",
+      "The police have quelled the disturbance."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Question",
+    "past": "questioned",
+    "participle": "questioned",
+    "continous": "questioning",
+    "present": {
+      "I/you/we/they": "question",
+      "he/she/it": "questions"
+    },
+    "examples": [
+      "Students question everything in class.",
+      "She questioned the decision.",
+      "They have questioned his motives before."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Race",
+    "past": "raced",
+    "participle": "raced",
+    "continous": "racing",
+    "present": {
+      "I/you/we/they": "race",
+      "he/she/it": "races"
+    },
+    "examples": [
+      "We race every Saturday morning.",
+      "He raced to the finish line.",
+      "They have raced against each other many times."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Reach",
+    "past": "reached",
+    "participle": "reached",
+    "continous": "reaching",
+    "present": {
+      "I/you/we/they": "reach",
+      "he/she/it": "reaches"
+    },
+    "examples": [
+      "I reach for the top shelf.",
+      "She reached the final level.",
+      "They have reached a new milestone."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Read",
+    "past": "read",
+    "participle": "read",
+    "continous": "reading",
+    "present": {
+      "I/you/we/they": "read",
+      "he/she/it": "reads"
+    },
+    "examples": [
+      "I usually read before going to bed.",
+      "He read the letter yesterday.",
+      "We have read that novel already."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Relax",
+    "past": "relaxed",
+    "participle": "relaxed",
+    "continous": "relaxing",
+    "present": {
+      "I/you/we/they": "relax",
+      "he/she/it": "relaxes"
+    },
+    "examples": [
+      "We relax after a long day.",
+      "He relaxed by the pool.",
+      "She has relaxed a lot this week."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Recover",
+    "past": "recovered",
+    "participle": "recovered",
+    "continous": "recovering",
+    "present": {
+      "I/you/we/they": "recover",
+      "he/she/it": "recovers"
+    },
+    "examples": [
+      "I recover quickly from illness.",
+      "She recovered after a few days.",
+      "They have recovered all the lost data."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Remember",
+    "past": "remembered",
+    "participle": "remembered",
+    "continous": "remembering",
+    "present": {
+      "I/you/we/they": "remember",
+      "he/she/it": "remembers"
+    },
+    "examples": [
+      "I remember your face from somewhere.",
+      "He remembered to lock the door.",
+      "They have remembered everything correctly."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Remove",
+    "past": "removed",
+    "participle": "removed",
+    "continous": "removing",
+    "present": {
+      "I/you/we/they": "remove",
+      "he/she/it": "removes"
+    },
+    "examples": [
+      "We remove the dust every morning.",
+      "She removed the old files.",
+      "He has removed all the unnecessary parts."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Return",
+    "past": "returned",
+    "participle": "returned",
+    "continous": "returning",
+    "present": {
+      "I/you/we/they": "return",
+      "he/she/it": "returns"
+    },
+    "examples": [
+      "They return the books to the library.",
+      "He returned home late.",
+      "She has returned the package already."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Ride",
+    "past": "rode",
+    "participle": "ridden",
+    "continous": "riding",
+    "present": {
+      "I/you/we/they": "ride",
+      "he/she/it": "rides"
+    },
+    "examples": [
+      "They ride their bikes to school.",
+      "She rode a horse for the first time last weekend.",
+      "He has ridden that roller coaster five times."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Ring",
+    "past": "rang",
+    "participle": "rung",
+    "continous": "ringing",
+    "present": {
+      "I/you/we/they": "ring",
+      "he/she/it": "rings"
+    },
+    "examples": [
+      "I hear the phone ring every morning at 8.",
+      "The bell rang loudly.",
+      "Someone has rung the doorbell three times already."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Rise",
+    "past": "rose",
+    "participle": "risen",
+    "continous": "rising",
+    "present": {
+      "I/you/we/they": "rise",
+      "he/she/it": "rises"
+    },
+    "examples": [
+      "Prices usually rise in December.",
+      "The sun rose at 6 a.m. today.",
+      "He has risen quickly in the company."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Run",
+    "past": "ran",
+    "participle": "run",
+    "continous": "running",
+    "present": {
+      "I/you/we/they": "run",
+      "he/she/it": "runs"
+    },
+    "examples": [
+      "I run every morning before breakfast.",
+      "She ran to catch the bus.",
+      "They have run out of time."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Save",
+    "past": "saved",
+    "participle": "saved",
+    "continous": "saving",
+    "present": {
+      "I/you/we/they": "save",
+      "he/she/it": "saves"
+    },
+    "examples": [
+      "I save money every month.",
+      "She saved the document before closing it.",
+      "They have saved a lot of energy this year."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Say",
+    "past": "said",
+    "participle": "said",
+    "continous": "saying",
+    "present": {
+      "I/you/we/they": "say",
+      "he/she/it": "says"
+    },
+    "examples": [
+      "I say hello to my neighbors.",
+      "She said she was tired.",
+      "They have said it before."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Scare",
+    "past": "scared",
+    "participle": "scared",
+    "continous": "scaring",
+    "present": {
+      "I/you/we/they": "scare",
+      "he/she/it": "scares"
+    },
+    "examples": [
+      "Ghost stories scare me.",
+      "The movie scared the children.",
+      "He has scared them more than once."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "See",
+    "past": "saw",
+    "participle": "seen",
+    "continous": "seeing",
+    "present": {
+      "I/you/we/they": "see",
+      "he/she/it": "sees"
+    },
+    "examples": [
+      "I see the mountains.",
+      "She saw a movie.",
+      "We have seen that before."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Seek",
+    "past": "sought",
+    "participle": "sought",
+    "continous": "seeking",
+    "present": {
+      "I/you/we/they": "seek",
+      "he/she/it": "seeks"
+    },
+    "examples": [
+      "They seek advice from experts.",
+      "She sought help from a friend.",
+      "We have sought answers for years."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Select",
+    "past": "selected",
+    "participle": "selected",
+    "continous": "selecting",
+    "present": {
+      "I/you/we/they": "select",
+      "he/she/it": "selects"
+    },
+    "examples": [
+      "You select the items you want to buy.",
+      "She selected the best option.",
+      "They have selected the winners."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Sell",
+    "past": "sold",
+    "participle": "sold",
+    "continous": "selling",
+    "present": {
+      "I/you/we/they": "sell",
+      "he/she/it": "sells"
+    },
+    "examples": [
+      "I sell handmade crafts online.",
+      "He sold his car last week.",
+      "They have sold their house already."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Send",
+    "past": "sent",
+    "participle": "sent",
+    "continous": "sending",
+    "present": {
+      "I/you/we/they": "send",
+      "he/she/it": "sends"
+    },
+    "examples": [
+      "I send emails every morning.",
+      "She sent me a postcard from Italy.",
+      "We have sent the documents to the office."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Set",
+    "past": "set",
+    "participle": "set",
+    "continous": "setting",
+    "present": {
+      "I/you/we/they": "set",
+      "he/she/it": "sets"
+    },
+    "examples": [
+      "I always set my alarm for 6 AM.",
+      "He set the table before dinner.",
+      "They have set the rules already."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Sew",
+    "past": "sewed",
+    "participle": "sewn",
+    "continous": "sewing",
+    "present": {
+      "I/you/we/they": "sew",
+      "he/she/it": "sews"
+    },
+    "examples": [
+      "She loves to sew clothes for her children.",
+      "He sewed a button onto his shirt.",
+      "They have sewn all the costumes by hand."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Shake",
+    "past": "shook",
+    "participle": "shaken",
+    "continous": "shaking",
+    "present": {
+      "I/you/we/they": "shake",
+      "he/she/it": "shakes"
+    },
+    "examples": [
+      "I shake the bottle before using it.",
+      "She shook my hand firmly.",
+      "The building has shaken during the earthquake."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Shine",
+    "past": "shone",
+    "participle": "shone",
+    "continous": "shining",
+    "present": {
+      "I/you/we/they": "shine",
+      "he/she/it": "shines"
+    },
+    "examples": [
+      "The stars shine brightly at night.",
+      "The sun shone all afternoon.",
+      "His shoes have always shone after polishing."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Shoot",
+    "past": "shot",
+    "participle": "shot",
+    "continous": "shooting",
+    "present": {
+      "I/you/we/they": "shoot",
+      "he/she/it": "shoots"
+    },
+    "examples": [
+      "They shoot arrows at the target.",
+      "He shot the ball into the net.",
+      "The photographer has shot hundreds of portraits."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Show",
+    "past": "showed",
+    "participle": "shown",
+    "continous": "showing",
+    "present": {
+      "I/you/we/they": "show",
+      "he/she/it": "shows"
+    },
+    "examples": [
+      "Can you show me your notes?",
+      "She showed us around the city.",
+      "He has shown great improvement lately."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Shrink",
+    "past": "shrank",
+    "participle": "shrunk",
+    "continous": "shrinking",
+    "present": {
+      "I/you/we/they": "shrink",
+      "he/she/it": "shrinks"
+    },
+    "examples": [
+      "Wool clothes shrink in hot water.",
+      "The shirt shrank after washing.",
+      "My jeans have shrunk a little."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Shut",
+    "past": "shut",
+    "participle": "shut",
+    "continous": "shutting",
+    "present": {
+      "I/you/we/they": "shut",
+      "he/she/it": "shuts"
+    },
+    "examples": [
+      "Please shut the window.",
+      "He shut the door quietly.",
+      "They have shut the store for the day."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Sing",
+    "past": "sang",
+    "participle": "sung",
+    "continous": "singing",
+    "present": {
+      "I/you/we/they": "sing",
+      "he/she/it": "sings"
+    },
+    "examples": [
+      "They sing in the school choir.",
+      "She sang beautifully at the concert.",
+      "We have sung this song many times."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Sink",
+    "past": "sank",
+    "participle": "sunk",
+    "continous": "sinking",
+    "present": {
+      "I/you/we/they": "sink",
+      "he/she/it": "sinks"
+    },
+    "examples": [
+      "Ships sink when they hit an iceberg.",
+      "The boat sank in the storm.",
+      "The treasure has sunk to the bottom of the ocean."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Sit",
+    "past": "sat",
+    "participle": "sat",
+    "continous": "sitting",
+    "present": {
+      "I/you/we/they": "sit",
+      "he/she/it": "sits"
+    },
+    "examples": [
+      "I always sit near the window.",
+      "She sat beside me during lunch.",
+      "We have sat through three long meetings today."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Sleep",
+    "past": "slept",
+    "participle": "slept",
+    "continous": "sleeping",
+    "present": {
+      "I/you/we/they": "sleep",
+      "he/she/it": "sleeps"
+    },
+    "examples": [
+      "I usually sleep eight hours a night.",
+      "He slept on the couch last night.",
+      "They have slept through the whole movie."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Slide",
+    "past": "slid",
+    "participle": "slid",
+    "continous": "sliding",
+    "present": {
+      "I/you/we/they": "slide",
+      "he/she/it": "slides"
+    },
+    "examples": [
+      "The kids slide down the hill in winter.",
+      "She slid across the ice.",
+      "He has slid the paper under the door."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Speak",
+    "past": "spoke",
+    "participle": "spoken",
+    "continous": "speaking",
+    "present": {
+      "I/you/we/they": "speak",
+      "he/she/it": "speaks"
+    },
+    "examples": [
+      "I speak English and Spanish.",
+      "She spoke at the conference yesterday.",
+      "He has spoken to the manager about it."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Spend",
+    "past": "spent",
+    "participle": "spent",
+    "continous": "spending",
+    "present": {
+      "I/you/we/they": "spend",
+      "he/she/it": "spends"
+    },
+    "examples": [
+      "I spend a lot of time reading.",
+      "They spent all their money on souvenirs.",
+      "She has spent the whole day cleaning."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Spill",
+    "past": "spilled",
+    "participle": "spilled",
+    "continous": "spilling",
+    "present": {
+      "I/you/we/they": "spill",
+      "he/she/it": "spills"
+    },
+    "examples": [
+      "I spill coffee sometimes.",
+      "She spilled the juice on the floor.",
+      "They have spilled the beans about the surprise."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Spit",
+    "past": "spit",
+    "participle": "spit",
+    "continous": "spitting",
+    "present": {
+      "I/you/we/they": "spit",
+      "he/she/it": "spits"
+    },
+    "examples": [
+      "He spits out the gum before eating.",
+      "She spit on the ground in anger.",
+      "The wrestler has spit several times during the match."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Split",
+    "past": "split",
+    "participle": "split",
+    "continous": "splitting",
+    "present": {
+      "I/you/we/they": "split",
+      "he/she/it": "splits"
+    },
+    "examples": [
+      "Let’s split the bill equally.",
+      "They split the team into two groups.",
+      "We have split the responsibilities fairly."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Spread",
+    "past": "spread",
+    "participle": "spread",
+    "continous": "spreading",
+    "present": {
+      "I/you/we/they": "spread",
+      "he/she/it": "spreads"
+    },
+    "examples": [
+      "They spread butter on the toast.",
+      "The news spread quickly.",
+      "He has spread the documents across the table."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Spring",
+    "past": "sprang",
+    "participle": "sprung",
+    "continous": "springing",
+    "present": {
+      "I/you/we/they": "spring",
+      "he/she/it": "springs"
+    },
+    "examples": [
+      "Cats often spring onto high shelves.",
+      "He sprang from his chair when he heard the alarm.",
+      "The dog has sprung forward to catch the ball."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Stand",
+    "past": "stood",
+    "participle": "stood",
+    "continous": "standing",
+    "present": {
+      "I/you/we/they": "stand",
+      "he/she/it": "stands"
+    },
+    "examples": [
+      "I stand in line every morning at the café.",
+      "He stood by the window for hours.",
+      "They have stood up for their rights."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Stare",
+    "past": "stared",
+    "participle": "stared",
+    "continous": "staring",
+    "present": {
+      "I/you/we/they": "stare",
+      "he/she/it": "stares"
+    },
+    "examples": [
+      "I stare out the window when I think.",
+      "He stared at the painting for hours.",
+      "They have stared at that screen all day."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Start",
+    "past": "started",
+    "participle": "started",
+    "continous": "starting",
+    "present": {
+      "I/you/we/they": "start",
+      "he/she/it": "starts"
+    },
+    "examples": [
+      "We start working at 9 a.m.",
+      "She started the engine quickly.",
+      "He has started a new project."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Steal",
+    "past": "stole",
+    "participle": "stolen",
+    "continous": "stealing",
+    "present": {
+      "I/you/we/they": "steal",
+      "he/she/it": "steals"
+    },
+    "examples": [
+      "Someone tries to steal my bike every week.",
+      "He stole her phone at the concert.",
+      "She has stolen money from the register."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Stick",
+    "past": "stuck",
+    "participle": "stuck",
+    "continous": "sticking",
+    "present": {
+      "I/you/we/they": "stick",
+      "he/she/it": "sticks"
+    },
+    "examples": [
+      "I stick notes on the fridge to remember things.",
+      "He stuck the photo on the wall.",
+      "The gum has stuck to my shoe."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Sting",
+    "past": "stung",
+    "participle": "stung",
+    "continous": "stinging",
+    "present": {
+      "I/you/we/they": "sting",
+      "he/she/it": "stings"
+    },
+    "examples": [
+      "Bees sting when they feel threatened.",
+      "A jellyfish stung her leg at the beach.",
+      "He has been stung by a wasp before."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Stink",
+    "past": "stank",
+    "participle": "stunk",
+    "continous": "stinking",
+    "present": {
+      "I/you/we/they": "stink",
+      "he/she/it": "stinks"
+    },
+    "examples": [
+      "These socks stink after the gym.",
+      "The trash stank yesterday.",
+      "His shoes have always stunk after practice."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Strike",
+    "past": "struck",
+    "participle": "struck",
+    "continous": "striking",
+    "present": {
+      "I/you/we/they": "strike",
+      "he/she/it": "strikes"
+    },
+    "examples": [
+      "Workers often strike for better pay.",
+      "Lightning struck the tree last night.",
+      "The clock has just struck twelve."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Study",
+    "past": "studied",
+    "participle": "studied",
+    "continous": "studying",
+    "present": {
+      "I/you/we/they": "study",
+      "he/she/it": "studies"
+    },
+    "examples": [
+      "I study every night before bed.",
+      "He studied for the math test.",
+      "They have studied that topic already."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Swear",
+    "past": "swore",
+    "participle": "sworn",
+    "continous": "swearing",
+    "present": {
+      "I/you/we/they": "swear",
+      "he/she/it": "swears"
+    },
+    "examples": [
+      "I swear I didn’t take it.",
+      "He swore he was telling the truth.",
+      "They have sworn loyalty to the king."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Sweep",
+    "past": "swept",
+    "participle": "swept",
+    "continous": "sweeping",
+    "present": {
+      "I/you/we/they": "sweep",
+      "he/she/it": "sweeps"
+    },
+    "examples": [
+      "I sweep the floor every morning.",
+      "She swept the leaves off the porch.",
+      "We have swept the entire house today."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Swim",
+    "past": "swam",
+    "participle": "swum",
+    "continous": "swimming",
+    "present": {
+      "I/you/we/they": "swim",
+      "he/she/it": "swims"
+    },
+    "examples": [
+      "I swim every weekend.",
+      "She swam across the lake.",
+      "They have swum in that pool many times."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Swing",
+    "past": "swung",
+    "participle": "swung",
+    "continous": "swinging",
+    "present": {
+      "I/you/we/they": "swing",
+      "he/she/it": "swings"
+    },
+    "examples": [
+      "The children swing at the playground.",
+      "He swung the bat hard.",
+      "She has swung back and forth for hours."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Talk",
+    "past": "talked",
+    "participle": "talked",
+    "continous": "talking",
+    "present": {
+      "I/you/we/they": "talk",
+      "he/she/it": "talks"
+    },
+    "examples": [
+      "We talk every day on the phone.",
+      "He talked for hours last night.",
+      "She has talked to the manager already."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Take",
+    "past": "took",
+    "participle": "taken",
+    "continous": "taking",
+    "present": {
+      "I/you/we/they": "take",
+      "he/she/it": "takes"
+    },
+    "examples": [
+      "We take the bus.",
+      "He took the book.",
+      "They have taken the test."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Teach",
+    "past": "taught",
+    "participle": "taught",
+    "continous": "teaching",
+    "present": {
+      "I/you/we/they": "teach",
+      "he/she/it": "teaches"
+    },
+    "examples": [
+      "I teach English at a local school.",
+      "She taught us how to cook.",
+      "He has taught for over ten years."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Tear",
+    "past": "tore",
+    "participle": "torn",
+    "continous": "tearing",
+    "present": {
+      "I/you/we/they": "tear",
+      "he/she/it": "tears"
+    },
+    "examples": [
+      "Be careful not to tear the paper.",
+      "He tore the letter in half.",
+      "She has torn her jeans again."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Tell",
+    "past": "told",
+    "participle": "told",
+    "continous": "telling",
+    "present": {
+      "I/you/we/they": "tell",
+      "he/she/it": "tells"
+    },
+    "examples": [
+      "I always tell the truth.",
+      "She told me a funny story.",
+      "They have told us many times."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Thank",
+    "past": "thanked",
+    "participle": "thanked",
+    "continous": "thanking",
+    "present": {
+      "I/you/we/they": "thank",
+      "he/she/it": "thanks"
+    },
+    "examples": [
+      "I thank you for your help.",
+      "She thanked everyone for coming.",
+      "They have thanked the volunteers."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Think",
+    "past": "thought",
+    "participle": "thought",
+    "continous": "thinking",
+    "present":{
+      "I/you/we/they": "think",
+      "he/she/it": "thinks"
+    },
+    "examples":[
+      "He thinks before speak",
+      "She thought that Billy could do it",
+      "I have thought it a lot"
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Throw",
+    "past": "threw",
+    "participle": "thrown",
+    "continous": "throwing",
+    "present": {
+      "I/you/we/they": "throw",
+      "he/she/it": "throws"
+    },
+    "examples": [
+      "We throw the ball during recess.",
+      "He threw the ball too far.",
+      "She has thrown away all the old clothes."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Type",
+    "past": "typed",
+    "participle": "typed",
+    "continous": "typing",
+    "present": {
+      "I/you/we/they": "type",
+      "he/she/it": "types"
+    },
+    "examples": [
+      "I type emails every morning.",
+      "He typed the report quickly.",
+      "They have typed all the data."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Understand",
+    "past": "understood",
+    "participle": "understood",
+    "continous": "understanding",
+    "present": {
+      "I/you/we/they": "understand",
+      "he/she/it": "understands"
+    },
+    "examples": [
+      "I understand what you're saying.",
+      "He understood the instructions clearly.",
+      "They have understood the concept very well."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Update",
+    "past": "updated",
+    "participle": "updated",
+    "continous": "updating",
+    "present": {
+      "I/you/we/they": "update",
+      "he/she/it": "updates"
+    },
+    "examples": [
+      "We update the software regularly.",
+      "She updated her profile yesterday.",
+      "They have updated the website."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Use",
+    "past": "used",
+    "participle": "used",
+    "continous": "using",
+    "present": {
+      "I/you/we/they": "use",
+      "he/she/it": "uses"
+    },
+    "examples": [
+      "I use my laptop every day.",
+      "She used the new software yesterday.",
+      "They have used all the resources."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Verify",
+    "past": "verified",
+    "participle": "verified",
+    "continous": "verifying",
+    "present": {
+      "I/you/we/they": "verify",
+      "he/she/it": "verifies"
+    },
+    "examples": [
+      "We verify all information before publishing.",
+      "He verified the data carefully.",
+      "They have verified the results already."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Visit",
+    "past": "visited",
+    "participle": "visited",
+    "continous": "visiting",
+    "present": {
+      "I/you/we/they": "visit",
+      "he/she/it": "visits"
+    },
+    "examples": [
+      "I visit my grandparents every weekend.",
+      "She visited the museum last month.",
+      "They have visited many countries."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Wait",
+    "past": "waited",
+    "participle": "waited",
+    "continous": "waiting",
+    "present": {
+      "I/you/we/they": "wait",
+      "he/she/it": "waits"
+    },
+    "examples": [
+      "We wait for the bus every morning.",
+      "He waited for an hour yesterday.",
+      "They have waited patiently."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Walk",
+    "past": "walked",
+    "participle": "walked",
+    "continous": "walking",
+    "present": {
+      "I/you/we/they": "walk",
+      "he/she/it": "walks"
+    },
+    "examples": [
+      "I walk to work daily.",
+      "She walked to the park last evening.",
+      "They have walked many miles."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Wake",
+    "past": "woke",
+    "participle": "woken",
+    "continous": "waking",
+    "present": {
+      "I/you/we/they": "wake",
+      "he/she/it": "wakes"
+    },
+    "examples": [
+      "I usually wake at 6 a.m.",
+      "She woke up late this morning.",
+      "They have woken several times during the night."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Want",
+    "past": "wanted",
+    "participle": "wanted",
+    "continous": "wanting",
+    "present": {
+      "I/you/we/they": "want",
+      "he/she/it": "wants"
+    },
+    "examples": [
+      "I want a new phone.",
+      "She wanted to go to the concert.",
+      "They have wanted to travel for years."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Warn",
+    "past": "warned",
+    "participle": "warned",
+    "continous": "warning",
+    "present": {
+      "I/you/we/they": "warn",
+      "he/she/it": "warns"
+    },
+    "examples": [
+      "We warn people about the dangers.",
+      "He warned me about the traffic.",
+      "They have warned the community."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Wear",
+    "past": "wore",
+    "participle": "worn",
+    "continous": "wearing",
+    "present": {
+      "I/you/we/they": "wear",
+      "he/she/it": "wears"
+    },
+    "examples": [
+      "I wear a jacket when it’s cold.",
+      "He wore a suit to the interview.",
+      "She has worn that dress before."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Weep",
+    "past": "wept",
+    "participle": "wept",
+    "continous": "weeping",
+    "present": {
+      "I/you/we/they": "weep",
+      "he/she/it": "weeps"
+    },
+    "examples": [
+      "People often weep at sad movies.",
+      "She wept silently in her room.",
+      "He has wept for days after the loss."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Win",
+    "past": "won",
+    "participle": "won",
+    "continous": "winning",
+    "present": {
+      "I/you/we/they": "win",
+      "he/she/it": "wins"
+    },
+    "examples": [
+      "They win almost every match.",
+      "She won the competition last year.",
+      "We have won three times in a row."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Worry",
+    "past": "worried",
+    "participle": "worried",
+    "continous": "worrying",
+    "present": {
+      "I/you/we/they": "worry",
+      "he/she/it": "worries"
+    },
+    "examples": [
+      "I worry about the exam.",
+      "She worried too much last night.",
+      "They have worried about the results."
+    ]
+  },
+  {
+    "type": "Irregular",
+    "base": "Write",
+    "past": "wrote",
+    "participle": "written",
+    "continous": "writing",
+    "present": {
+      "I/you/we/they": "write",
+      "he/she/it": "writes"
+    },
+    "examples": [
+      "I write in my journal every night.",
+      "He wrote a letter to his friend.",
+      "She has written three novels so far."
+    ]
+  },
+  {
+    "type": "Regular",
+    "base": "Yell",
+    "past": "yelled",
+    "participle": "yelled",
+    "continous": "yelling",
+    "present": {
+      "I/you/we/they": "yell",
+      "he/she/it": "yells"
+    },
+    "examples": [
+      "I yell when I am excited.",
+      "He yelled at the referee.",
+      "They have yelled during the game."
+    ]
+  }
+]
